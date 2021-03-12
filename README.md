@@ -1,2 +1,2 @@
-# C-Hangman-Game
+# C++ Hangman Game
 Basic hangman game using c++
